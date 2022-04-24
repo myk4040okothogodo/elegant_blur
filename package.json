@@ -1,0 +1,18 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "elegant_landing_page",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "myk4040okothogodo"
+  },
+  "author": "mykokoth",
+  "license": "ISC",
+  "dependencies": {
+    "http-serve": "^1.0.1"
+  }
+}
