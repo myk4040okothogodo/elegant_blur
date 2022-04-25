@@ -4,6 +4,7 @@
   "description": "elegant_landing_page",
   "main": "index.html",
   "scripts": {
+    "start": "http-server -c-1 -p 3000",
     "test": "npm run test"
   },
   "repository": {
@@ -13,6 +14,7 @@
   "author": "mykokoth",
   "license": "ISC",
   "dependencies": {
-    "http-serve": "^1.0.1"
+    "http-serve": "^1.0.1",
+    "http-server": "^14.1.0"
   }
 }
